@@ -252,9 +252,9 @@ byte levels[10][2][16] = {
   }
 };
 char* hints[10] = {
-  "HINT: Moron...",
-  "HINT: Push...",
-  "HINT: Push...",
+  "HINT: Controls are WASD...",
+  "HINT: Push the boxes...",
+  "HINT: Push the boxes...",
   "HINT: WIP",
   "HINT: WIP",
   "HINT: WIP",
